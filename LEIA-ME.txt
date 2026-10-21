@@ -1,0 +1,8 @@
+Integra+Edu — versão otimizada para GitHub
+
+IMPORTANTE:
+- Mantenha o arquivo integra-edu-offline.html e a pasta integra-edu-assets juntos, no mesmo nível.
+- Não envie apenas o HTML: as imagens foram externalizadas para arquivos separados, sem remover imagens.
+- Para executar offline, extraia o ZIP inteiro e abra integra-edu-offline.html no navegador.
+- Para GitHub Pages, envie o HTML e a pasta integra-edu-assets para o mesmo diretório do repositório.
+- Os bytes das imagens foram preservados; o HTML foi alterado apenas para apontar para os arquivos correspondentes.
